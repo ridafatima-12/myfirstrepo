@@ -1,0 +1,10 @@
+h1{
+    background-color: palevioletred;
+}p{
+    background-color: rgb(175, 125, 175);
+}img{
+    border: solid;
+}figure{
+    border: groove;
+    color: rgb(79, 9, 9);
+}
